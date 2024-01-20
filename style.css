@@ -50,8 +50,18 @@ body{
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
-
+.link:hover{
+  background-color:#ffff;
+  color: red;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px #222222;
+  border: 1px solid lightgoldenrodyellow;
+}
+.btn {
+  display: block;
+  width: 70px;
+  height: 24px; 
+}
 
 
 
